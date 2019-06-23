@@ -5,4 +5,5 @@ Rencana ditahun depan
  ^FIX
 - taaruf
 *3 Bulan
+*2 Bulan
 - menikah
